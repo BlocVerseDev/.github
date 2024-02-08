@@ -11,4 +11,5 @@ Le serveur est un projet Mini-Jeux ayant pour but de faire un bon dans l'espace 
 
 Si vous avez des questions contactez nous directement sur notre discord !
 
+# Projet BlocVerse
 Les projets publics de BlocVerse sont privés et sous la licence GNU GPLv3. 
