@@ -4,7 +4,7 @@ BlocVerse est un serveur Minecraft disponible de la 1.8 aux dernières versions 
 Le serveur est un projet Mini-Jeux ayant pour but de faire un bon dans l'espace temps, la devise du projet étant "De l'ancien avec la demande actuelle".
 
 
-## Nous contactez : 
+## Nous contacter : 
 - [Notre compte twitter](https://www.twitter.com/BlocVerseFR)
 - [Notre serveur discord](https://discord.gg/dCnCT8UxF5)
 
